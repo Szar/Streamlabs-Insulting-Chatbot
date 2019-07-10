@@ -14,10 +14,10 @@ Version = "1.0.0"
 configFile = "config.json"
 settings = {}
 
-sentences = ["no one asked for your opinion, you", "i fail to understand how you've become such a", "get out of my way, you sorry excuse for a", "i cannot believe that you are such a", "you are such a", "i'm getting really tired of this shit, you", "i can't believe you are even talking to me, you"]
-adjectives = ["abnormal", "actually", "damned", "serious", "worst", "ultimate", "worse", "original", "gross", "deep", "good", "adorable", "cute", "aggressive", "amazing", "ambitious", "annoying", "apathetic", "anxious", "arrogant", "attractive", "average", "awful", "bad", "evil", "big", "bizarre", "boring", "brainless", "busted", "charming", "cheap", "childish", "classy", "colossal", "cursed", "cowardly", "creepy", "dead", "delicate", "delicious", "demonic", "dirty", "disgusting", "dramatic", "dusty", "elderly", "elite", "empty", "fancy", "fine", "friendly", "fresh", "fragile", "furry", "fuzzy", "gaping", "gigantic", "godly", "greedy", "grubby", "handsome", "hellish", "helpless", "hideous", "homeless", "hot", "hungry", "thirsty", "juicy", "lame", "large", "little", "loud", "lumpy", "magical", "meaty", "moldy", "nasty", "nervous", "nice", "ordinary", "pointless", "poor", "premium", "questionable", "rabid", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "sneaky", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "tender", "thick", "ugly", "wacky", "wild", "zesty"]
-curseWords = ["fuckass", "fuck", "ass", "as-heck", "thief", "bitch", "frog", "shitty", "dumbo", "fucker"]
-nouns = ["goon", "bean", "snack", "boy", "anime"]
+sentences = ["no one asked for your opinion, you", "i fail to understand how you've become such a", "get out of my way, you sorry excuse for a", "i cannot believe that you are such a", "you're a", "i'm getting really tired of this shit, you", "i can't believe you are even talking to me, you"]
+adjectives = ["actual", "serious", "ultimate", "good", "adorable", "cute", "anxious", "average", "evil", "big", "brainless", "busted", "cheap", "cursed", "smelly", "creepy", "dead", "delicate", "delicious", "dirty", "dusty", "old", "fine", "fresh", "fragile", "furry", "gaping", "gigantic", "hideous", "hot", "hungry", "thirsty", "juicy", "lame", "little", "magical", "meaty", "moldy", "nasty", "nervous", "premium", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "thick", "ugly", "wacky", "wild"]
+curseWords = ["fuckass", "ass", "as-heck", "bitch", "shit", "shitty", "dumbo", "anime-looking", "frog-looking", "small-eared", "small-faced", "looking", "fucking"]
+nouns = ["goon", "bean", "snack", "boy", "anime", "fucker", "weeb", "coward", "headass", "cuck", "donkey"]
 vowels = ["a", "e", "i", "o", "u"]
 
 def insult():
