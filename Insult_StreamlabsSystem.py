@@ -15,9 +15,9 @@ configFile = "config.json"
 settings = {}
 
 sentences = ["no one asked for your opinion, you", "i fail to understand how you've become such a", "get out of my way, you sorry excuse for a", "i cannot believe that you are such a", "you're a", "i'm getting really tired of this shit, you", "i can't believe you are even talking to me, you"]
-adjectives = ["actual", "serious", "ultimate", "good", "adorable", "cute", "anxious", "average", "evil", "big", "brainless", "busted", "cheap", "cursed", "smelly", "creepy", "dead", "delicate", "delicious", "dirty", "dusty", "old", "fine", "fresh", "fragile", "furry", "gaping", "gigantic", "hideous", "hot", "hungry", "thirsty", "juicy", "lame", "little", "magical", "meaty", "moldy", "nasty", "nervous", "premium", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "thick", "ugly", "wacky", "wild"]
-curseWords = ["fuckass", "ass", "as-heck", "bitch", "shit", "shitty", "dumbo", "anime-looking", "frog-looking", "small-eared", "small-faced", "looking", "fucking"]
-nouns = ["goon", "bean", "snack", "boy", "anime", "fucker", "weeb", "coward", "headass", "cuck", "donkey"]
+adjectives = ["actual", "serious", "ultimate", "good", "adorable", "cute", "anxious", "average", "evil", "big", "brainless", "busted", "cheap", "cursed", "smelly", "creepy", "dead", "delicate", "delicious", "dirty", "dusty", "old", "fine", "fresh", "fragile", "furry", "gaping", "gigantic", "hideous", "hot", "hungry", "thirsty", "juicy", "lame", "little", "magical", "meaty", "moldy", "nasty", "nervous", "premium", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "thick", "ugly", "wacky", "wild", "left-handed"]
+curseWords = ["fuckass", "ass", "as-heck", "bitch", "shit", "shitty", "dumbo", "anime-looking", "frog-looking", "small-eared", "small-faced", "looking", "fucking", "donkey-looking"]
+nouns = ["goon", "bean", "snack", "boy", "anime", "fucker", "weeb", "coward", "headass", "cuck", "donkey", "camel", "goat"]
 vowels = ["a", "e", "i", "o", "u"]
 
 def insult():
