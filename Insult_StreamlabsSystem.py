@@ -10,15 +10,15 @@ ScriptName = "Insulter"
 Website = "https://github.com/Szar"
 Description = "Random insult generator"
 Creator = "Soflne"
-Version = "1.0.0"
+Version = "1.0.1"
 
 configFile = "config.json"
 settings = {}
 
-sentences = ["no one asked for your opinion, you", "i fail to understand how you've become such a", "get out of my way, you sorry excuse for a", "i cannot believe that you are such a", "you're a", "i'm getting really tired of this shit, you", "i can't believe you are even talking to me, you"]
-adjectives = ["actual", "serious", "ultimate", "good", "adorable", "cute", "anxious", "average", "evil", "big", "brainless", "busted", "cheap", "cursed", "smelly", "creepy", "dead", "delicate", "delicious", "dirty", "dusty", "old", "fine", "fresh", "fragile", "furry", "gaping", "gigantic", "hideous", "hot", "hungry", "thirsty", "juicy", "lame", "little", "magical", "meaty", "moldy", "nasty", "nervous", "premium", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "thick", "ugly", "wacky", "wild", "left-handed"]
-curseWords = ["fuckass", "ass", "as-heck", "bitch", "shit", "shitty", "dumbo", "anime-looking", "frog-looking", "small-eared", "small-faced", "looking", "fucking", "donkey-looking"]
-nouns = ["goon", "bean", "snack", "boy", "anime", "fucker", "weeb", "coward", "headass", "cuck", "donkey", "camel", "goat"]
+sentences = ["GET A LOAD OF THIS", "i fail to understand how you've become such a", "get out of my way, you sorry excuse for a", "i cannot believe that you are such a", "you're a", "i'm getting really tired of this shit, you", "i can't believe you are even talking to me, you"]
+adjectives = ["actual", "serious", "ultimate", "good", "adorable", "cute", "anxious", "average", "evil", "big", "brainless", "busted", "cheap", "cursed", "smelly", "creepy", "dead", "delicate", "delicious", "dirty", "dusty", "old", "fine", "fresh", "fragile", "furry", "gaping", "gigantic", "hideous", "hot", "hungry", "thirsty", "juicy", "lame", "little", "magical", "meaty", "moldy", "nasty", "nervous", "premium", "repulsive", "ripe", "rotten", "rude", "salty", "savory", "scrawny", "sloppy", "spooky", "stupid", "super", "supreme", "tasty", "teeny-tiny", "thick", "ugly", "wacky", "wild", "left-handed", "goofy", "wrinkly", "wide-toed"]
+curseWords = ["fuckass", "ass", "as-heck", "bitch", "shitty", "dumbo", "anime-looking", "frog-looking", "small-eared", "small-faced", "looking", "fucking", "donkey-looking", "deadass", "little-nosed", "absolute"]
+nouns = ["goon", "bean", "snack", "boy", "anime", "fuck", "weeb", "coward", "headass", "smegma", "donkey", "camel", "goat", "ganglion", "old person", "toe-sucker", "troglodyte", "guck", "dweeb", "milk jug", "slug", "boi", "girl", "grill"]
 vowels = ["a", "e", "i", "o", "u"]
 
 def insult():
