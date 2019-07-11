@@ -4,6 +4,7 @@ import json
 import os
 import ctypes
 import codecs
+import random
 
 ScriptName = "Insulter"
 Website = "https://github.com/Szar"
